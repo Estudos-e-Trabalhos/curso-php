@@ -9,6 +9,5 @@
     ?>
 </h1>
 
-<?= "<div> Isso é uma div! </div>" ?>
 
 <div><button><?= 'Aperte aqui' ?></button></div>

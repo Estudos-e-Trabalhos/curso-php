@@ -9,7 +9,7 @@
     ?>
 </h1>
 
-<?= "<div center> Isso é uma div! </div>" ?>
+
 
 <div center><button><?= 'Aperte aqui' ?></button></div>
 
